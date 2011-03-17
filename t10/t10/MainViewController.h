@@ -6,6 +6,11 @@
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
+
+// Xcode created the repo connecting to the GitHub server
+// but it named it origin, but I cannot rename it.
+// so I deleted and created one I like.  Let's see it if works.
+
 #import "FlipsideViewController.h"
 
 @interface MainViewController : UIViewController <FlipsideViewControllerDelegate> {
