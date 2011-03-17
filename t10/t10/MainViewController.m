@@ -24,7 +24,11 @@
 }
 
 - (IBAction)showInfo:(id)sender
-{    
+{
+    // Code added to test another push
+    // the last time Xcode crash after I did a push
+    NSLog(@"Showing flipview...");
+    
     FlipsideViewController *controller = [[FlipsideViewController alloc] initWithNibName:@"FlipsideView" bundle:nil];
     controller.delegate = self;
     
