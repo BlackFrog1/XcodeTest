@@ -2,7 +2,7 @@
 //  t10AppDelegate.h
 //  t10
 //
-//  Created by Collin Bennett on 3/17/11.
+//  Created on 3/17/11.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
